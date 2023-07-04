@@ -1,2 +1,2 @@
-# AI_ML
-AI_ML_projects
+About Me: 
+I am Madhuri Gandikota, a highly skilled professional with over 10 years of experience in product management and a strong focus on Artificial Intelligence (AI) and Machine Learning (ML). I possess extensive knowledge in health data and excel in various aspects of data science, including data gathering, cleaning, preprocessing, analysis, visualization, and report generation. With expertise in AI and ML techniques such as artificial neural networks, Natural Language Processing (NLP), and computer vision, I build robust predictive models. I have a proven track record of predicting profitability and improving health outcomes using advanced statistics and ML tools. I am skilled in interpreting and visualizing results, enabling actionable business outcomes. My goal is to make a significant impact in the field, leveraging my expertise to enable organizations to harness the power of data for transformative decision-making processes.
